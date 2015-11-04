@@ -1,0 +1,29 @@
+{
+  "name": "tutorial-game-on-phaser",
+  "version": "0.0.3",
+  "description": "Tutorial: How to build games using Phaser",
+  "main": "barkanoid.js",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaturunen/TUTORIAL-game-on-phaser.git"
+  },
+  "keywords": [
+    "phaser",
+    "tutorial",
+    "arkanoid",
+    "breakout"
+  ],
+  "author": "Mika Turunen <mika.turunen@ymail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikaturunen/TUTORIAL-game-on-phaser/issues"
+  },
+  "homepage": "https://github.com/mikaturunen/TUTORIAL-game-on-phaser",
+  "dependencies": {
+    "http-server": "^0.8.0",
+    "phaser": "^2.3.0"
+  }
+}
