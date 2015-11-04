@@ -1,3 +1,6 @@
+# barkanoid
+Breakaout Arkanoid game using Typescript with Phaser game engine
+
 # TUTORIAL-game-on-phaser
 Tutorial: How to build games using Phaser.
 
